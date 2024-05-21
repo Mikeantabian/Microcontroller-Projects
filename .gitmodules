@@ -1,0 +1,6 @@
+[submodule "RPI_Pico_I2C_TempSensor"]
+	path = RPI_Pico_I2C_TempSensor
+	url = https://github.com/Mikeantabian/RPI_Pico_I2C_TempSensor
+[submodule "RPI_Pico_LCD_Proj"]
+	path = RPI_Pico_LCD_Proj
+	url = https://github.com/Mikeantabian/RPI_Pico_LCD_Proj
